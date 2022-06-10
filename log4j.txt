@@ -1,0 +1,30 @@
+2022-06-11 01:50:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 01:50:06 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 01:50:06 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 01:52:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 01:52:06 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 01:52:06 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 01:53:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 01:53:11 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 01:53:11 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 01:54:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 01:54:10 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 01:54:10 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 01:55:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 01:55:15 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 01:55:16 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-11 01:58:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\ms\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-06-11 01:58:24 INFO  WebDriverManager:1122 - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-06-11 01:58:24 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\ms\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
